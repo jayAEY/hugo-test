@@ -1,4 +1,4 @@
-baseURL: ""
+baseURL: "https://jayaey.github.io/hugo-test/"
 languageCode: "en-us"
 title: "Hugo Demo"
 theme: "PaperMod"
